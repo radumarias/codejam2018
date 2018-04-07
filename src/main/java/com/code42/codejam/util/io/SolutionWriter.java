@@ -1,4 +1,4 @@
-package com.code42.codejam.io;
+package com.code42.codejam.util.io;
 
 import java.io.BufferedWriter;
 import java.io.OutputStream;

@@ -1,12 +1,12 @@
-package com.code42.codejam.solver.impl;
+package com.code42.codejam.util.solver.impl;
 
-import com.code42.codejam.Utils;
-import com.code42.codejam.io.SolutionWriter;
-import com.code42.codejam.model.Point;
-import com.code42.codejam.model.RequestModel;
-import com.code42.codejam.model.Ride;
-import com.code42.codejam.model.Vehicle;
-import com.code42.codejam.solver.Solver;
+import com.code42.codejam.util.Utils;
+import com.code42.codejam.util.io.SolutionWriter;
+import com.code42.codejam.util.model.Point;
+import com.code42.codejam.util.model.RequestModel;
+import com.code42.codejam.util.model.Ride;
+import com.code42.codejam.util.model.Vehicle;
+import com.code42.codejam.util.solver.Solver;
 
 import java.util.*;
 

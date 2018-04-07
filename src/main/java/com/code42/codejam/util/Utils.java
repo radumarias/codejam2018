@@ -1,6 +1,6 @@
-package com.code42.codejam;
+package com.code42.codejam.util;
 
-import com.code42.codejam.model.Point;
+import com.code42.codejam.util.model.Point;
 
 public class Utils {
 

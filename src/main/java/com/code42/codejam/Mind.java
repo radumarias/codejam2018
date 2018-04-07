@@ -1,10 +1,10 @@
 package com.code42.codejam;
 
-import com.code42.codejam.io.RequestReader;
-import com.code42.codejam.io.SolutionWriter;
-import com.code42.codejam.model.RequestModel;
-import com.code42.codejam.solver.Solver;
-import com.code42.codejam.solver.impl.RaduSolverImpl;
+import com.code42.codejam.util.io.RequestReader;
+import com.code42.codejam.util.io.SolutionWriter;
+import com.code42.codejam.util.model.RequestModel;
+import com.code42.codejam.util.solver.Solver;
+import com.code42.codejam.util.solver.impl.RaduSolverImpl;
 
 import java.io.IOException;
 import java.io.InputStream;

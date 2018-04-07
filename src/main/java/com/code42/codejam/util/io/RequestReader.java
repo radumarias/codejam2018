@@ -1,8 +1,8 @@
-package com.code42.codejam.io;
+package com.code42.codejam.util.io;
 
-import com.code42.codejam.model.Point;
-import com.code42.codejam.model.RequestModel;
-import com.code42.codejam.model.Ride;
+import com.code42.codejam.util.model.Point;
+import com.code42.codejam.util.model.RequestModel;
+import com.code42.codejam.util.model.Ride;
 
 import java.io.BufferedReader;
 import java.io.IOException;

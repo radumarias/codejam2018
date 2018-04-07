@@ -1,4 +1,4 @@
-package com.code42.codejam.model;
+package com.code42.codejam.util.model;
 
 public class Vehicle {
 

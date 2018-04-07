@@ -1,7 +1,7 @@
-package com.code42.codejam.solver;
+package com.code42.codejam.util.solver;
 
-import com.code42.codejam.io.SolutionWriter;
-import com.code42.codejam.model.RequestModel;
+import com.code42.codejam.util.io.SolutionWriter;
+import com.code42.codejam.util.model.RequestModel;
 
 /**
  * radu on 3/1/18 8:54 PM
